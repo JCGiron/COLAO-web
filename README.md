@@ -1,3 +1,9 @@
+The Coleoptera Anatomy Ontology Project aims to integrate information about the anatomy and morphology of beetles across the order. We will tackle this by creating a Protégé-based ontology (https://protege.stanford.edu/) of commonly used terms for taxonomic descriptions of beetles, accompanied by a referenced and illustrated glossary.
+
+
+
+
+------------
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JCGiron/ColAO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
