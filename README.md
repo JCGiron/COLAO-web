@@ -3,7 +3,9 @@ We will tackle this by creating a Protégé-based ontology ([https://protege.sta
 
 ---
 
-[Link button](https://jcgiron.github.io/ColAO/head.html){: .btn }
+<span class="fs-8">
+[Link button]((https://jcgiron.github.io/ColAO/head.html){: .btn }
+</span>
 
 ---
 
