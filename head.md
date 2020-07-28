@@ -1,3 +1,7 @@
+---
+theme: jekyll-theme-cayman
+---
+
 ##Head  
 Also known as cranium. Is a rigid structure often divided into areas for descriptive purposes (Lawrence & Ślipiński 2013).  
   
