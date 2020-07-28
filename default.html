@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>The Coleoptera Anatomy Ontology Project</title>
+
+    <!-- Latest compiled and minified Bootstrap CSS 
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"  crossorigin="anonymous"> 
+    -->
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="stylesheet" href="/assets/jumbotron.css">
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  </head>
+  <body>
+
+    {% assign current = page.url | downcase | split: '/' %}
+
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="/">The Coleoptera Anatomy Ontology Project</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item {% if page.url == '/' %}active{% endif %}">
+            <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link {% if current[1] == 'Head' %}active{% endif %}" href="{{'education' | absolute_url}}">Education</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link {% if current[1] == 'Thorax' %}active{% endif %}" href="{{'outreach' | absolute_url}}">Outreach</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link {% if current[1] == 'Abdomen' %}active{% endif %}" href="{{'diversity' | absolute_url}}">Diversity</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link {% if current[1] == 'Ontology' %}active{% endif %}" href="{{'about' | absolute_url}}">About</a>
+          </li>
+
+          <!--
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Jump to</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+          -->
+        </ul>
+
+     </div>
+    </nav>
+
+    <div class="container">
+      {{ content }}
+    </div> 
+
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted">&copy; ColAO, 2020. Unless otherwise indicated all material here is available under a CC-BY-NC designation.</p>
+      </div>
+    </footer>
+
+    <!--
+      <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+      <script src="{{'/node_modules/popper.js/dist/popper.min.js' | prepend: site.baseurl}}"></script>
+      <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+    -->
+
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script> 
+    
+      {% include analytics.html %}
+  </body>
+
+</html>
