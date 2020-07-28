@@ -10,7 +10,7 @@ layout: default
 # Head
 Also known as cranium. Is a rigid structure often divided into areas for descriptive purposes (Lawrence & Ślipiński 2013).
 
-![Head of *Calosoma schayeri* Erichson, dorsal; taken from Lawrence & Ślipiński 2013, Fig 13A](https://live.staticflickr.com/65535/50163470312_e451af982e_z.jpg)
+![Head of *Calosoma schayeri* Erichson, dorsal; taken from Lawrence & Ślipiński 2013, Fig 13A](https://live.staticflickr.com/65535/50163470312_e451af982e_z.jpg)   #### Head of *Calosoma schayeri* Erichson, dorsal; taken from Lawrence & Ślipiński 2013, Fig 13A.
 
 The beetle head was studied in detail by Stickney (1923) who included nearly 150 species representing over 100 families (families as listed by Leng 1920).
 
