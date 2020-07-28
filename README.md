@@ -3,7 +3,7 @@ We will tackle this by creating a Protégé-based ontology ([https://protege.sta
 
 ---
 
-[##Head](https://jcgiron.github.io/ColAO/head.htm)  
+[Head](https://jcgiron.github.io/ColAO/head.html)  
 
 ---
 
