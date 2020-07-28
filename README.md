@@ -3,7 +3,7 @@ We will tackle this by creating a Protégé-based ontology ([https://protege.sta
 
 ---
 
-<a href="{{ https://jcgiron.github.io/ColAO/head.htm}} " class="btn">Head</a>
+[##Head](https://jcgiron.github.io/ColAO/head.htm)  
 
 ---
 
@@ -12,4 +12,4 @@ The team:
 [Sergei Tarasov](https://sergxf.wixsite.com/dungbeetles)  
 [Patrice Bouchard](https://www.agr.gc.ca/eng/scientific-collaboration-and-research-in-agriculture/agriculture-and-agri-food-research-centres-and-collections/ontario/ottawa-research-and-development-centre/scientific-staff-and-expertise/bouchard-patrice-phd/?id=1181931431105)  
 [Aaron Smith](http://insectbiodiversitylab.org/)  
-With support from István Mikó and Matt Yoder.
+With support from [István Mikó](https://colsa.unh.edu/person/istvan-miko) and [Matt Yoder](https://www.inhs.illinois.edu/directory/show/mjyoder).
