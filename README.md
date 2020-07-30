@@ -1,9 +1,19 @@
 The Coleoptera **Anatomy Ontology Project** aims to integrate information about the anatomy and morphology of beetles across the order.  
-We will tackle this by creating a Protégé-based ontology ([https://protege.stanford.edu/](https://protege.stanford.edu/)) of commonly used terms for taxonomic descriptions of beetles, accompanied by a referenced and illustrated glossary.
+We will tackle this by creating a .tsv file-based ontology of commonly used terms for taxonomic descriptions of beetles, accompanied by a referenced and illustrated glossary.
 
 ---
 
-## [Head](https://jcgiron.github.io/ColAO/head/head.html)  
+<html>
+<body>
+
+<h1>
+<p align="center">
+<a href="https://jcgiron.github.io/ColAO/head/head.html"> Head</a>
+</p>
+  
+</h1>
+</body>
+</html>
 
 ---
 
