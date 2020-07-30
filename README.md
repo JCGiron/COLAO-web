@@ -8,7 +8,7 @@ We will tackle this by creating a .tsv file-based ontology of commonly used term
 
 <h1>
 <p align="center">
-<a href="https://jcgiron.github.io/ColAO/head/head.html"> Head</a>
+<a href="https://jcgiron.github.io/ColAO-web/head/head.html"> Head</a>
 </p>
   
 </h1>
