@@ -1,5 +1,5 @@
-The Coleoptera **Anatomy Ontology Project** aims to integrate information about the anatomy and morphology of beetles across the order.  
-We will tackle this by creating a .tsv file-based ontology of commonly used terms for taxonomic descriptions of beetles, accompanied by a referenced and illustrated glossary.
+The Coleoptera **Anatomy Ontology Project (COLAO)** aims to integrate information about the anatomy and morphology of beetles across the order.  
+We will tackle this by creating an ontology of commonly used terms for taxonomic descriptions of beetles, accompanied by a referenced and illustrated glossary.
 
 ---
 
