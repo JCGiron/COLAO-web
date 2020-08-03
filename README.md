@@ -8,7 +8,7 @@ We will tackle this by creating an ontology of commonly used terms for taxonomic
 
 <h1>
 <p align="center">
-<a href="https://jcgiron.github.io/ColAO-web/head/head.html"> Head</a>
+<a href="https://jcgiron.github.io/COLAO-web/head/head.html"> Head</a>
 </p>
   
 </h1>
